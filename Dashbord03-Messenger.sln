@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashbord03-Messenger", "Dashbord03-Messenger\Dashbord03-Messenger.csproj", "{7D4AB548-5F82-4843-AC1D-52ABE38D47FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58596C3A-FFBF-4933-9C04-FCB38691B98C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4AB548-5F82-4843-AC1D-52ABE38D47FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4AB548-5F82-4843-AC1D-52ABE38D47FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4AB548-5F82-4843-AC1D-52ABE38D47FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4AB548-5F82-4843-AC1D-52ABE38D47FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DC17EB-B4B0-457D-B8E5-44B72A7D780B}
+	EndGlobalSection
+EndGlobal
